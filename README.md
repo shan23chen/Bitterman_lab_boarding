@@ -6,7 +6,7 @@ Harvard AIM - Bitterman lab onboarding documents
 >
 >[Old yet practical paper help you to brush out many NLP concepts before transformers](https://academic.oup.com/jamiaopen/article/2/1/150/5273645#198267995)
 >
->[jalammar's blog that talks about many big NLP concepts](https://jalammar.github.io/)
+>[Jalammar's blog that talks about many big NLP concepts](https://jalammar.github.io/)
 >
 >[Good review on Stats ML](http://www.ai.mit.edu/courses/6.867-f04/exams/final2004sols.pdf)
 >
