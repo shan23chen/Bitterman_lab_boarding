@@ -4,6 +4,8 @@ Harvard AIM - Bitterman lab onboarding documents
 # Some always useful pointers (recommend to read carefully):
 >[Group reading list](https://github.com/shan23chen/paper-reading)
 >
+>[Brushing out linux and many other useful skills](https://missing.csail.mit.edu/)
+>
 >[Old yet practical paper help you to brush out many NLP concepts before transformers](https://academic.oup.com/jamiaopen/article/2/1/150/5273645#198267995)
 >
 >[Jalammar's blog that talks about many big NLP concepts](https://jalammar.github.io/)
@@ -34,5 +36,6 @@ Lab Tasks:
 4. Give dropbox access (all should have access to admin folder)
 5. Review databases&RedCap as appropriate
 6. Give Danielle your partner ID (initials with followed by 4 digits)
-7. Give access to lab drive (email Kris Zhai) and then log onto your VPN and try to mount to lab-drive
+7. Give access to lab drive (email Kris Zhai) and then log onto your VPN and try to mount to lab-drive (ask us for the smb mounting address)
+>[How to mount drive on linux](https://marzorati.co/how-to-mount-cifs-share-permanently-on-ubuntu/)
 8. Set up Harvard Library Proxy Account if needed
