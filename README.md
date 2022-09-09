@@ -9,12 +9,10 @@ Harvard AIM - Bitterman lab onboarding documents
 Employee Tasks from BWH side:
 1. Obtain BWH ID
 2. Complete CITI Training: GCP and HSP and save certificates (instructions in Dropbox/BittermanLab/Administrative)
-3. Log into Citrix workspace to check access: 
-[link] (https://workspace.partners.org/Citrix/UniversalWeb/)
+3. Log into Citrix workspace to check access: [link](https://workspace.partners.org/Citrix/UniversalWeb/)
 4. Log into partners dropbox to check access (sign into Dropbox using BWH 
 email and follow instructions)
-5. Set up VPN Access: 
-[VPN link] (https://pulse.massgeneralbrigham.org/resources_training/remote_work_toolkit/vpn)
+5. Set up VPN Access (partners email login): [VPN link](https://pulse.massgeneralbrigham.org/resources_training/remote_work_toolkit/vpn)
 
 Lab Tasks:
 1. After ID obtained, ask Susanna for key card access to AIM suite
