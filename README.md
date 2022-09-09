@@ -3,8 +3,11 @@ Harvard AIM - Bitterman lab onboarding documents
 
 # Some always useful pointers:
 >[Group reading list](https://github.com/shan23chen/paper-reading)
+>
 >[Good review on Stats ML](http://www.ai.mit.edu/courses/6.867-f04/exams/final2004sols.pdf)
+>
 >[Awesome Transformer Wrapper to read and use](https://github.com/Machine-Learning-for-Medical-Language/cnlp_transformers)
+>
 >[Easy to use Prompt tuning Library](https://github.com/thunlp/OpenPrompt)
 
 # Onboarding Logistics:
