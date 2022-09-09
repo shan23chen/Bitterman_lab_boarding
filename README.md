@@ -1,7 +1,7 @@
 # Bitterman_lab_boarding!
 Harvard AIM - Bitterman lab onboarding documents
 
-# Some always useful pointers:
+# Some always useful pointers (recommend to read carefully):
 >[Group reading list](https://github.com/shan23chen/paper-reading)
 >
 >[Old yet practical paper help you to brush out many NLP concepts before transformers](https://academic.oup.com/jamiaopen/article/2/1/150/5273645#198267995)
