@@ -1,4 +1,4 @@
-# Bitterman_lab_boarding!
+# Welcome to Bitterman lab!
 Harvard AIM - Bitterman lab onboarding documents
 
 # Some always useful pointers (recommend to read carefully):
