@@ -22,7 +22,7 @@ Harvard AIM - Bitterman lab onboarding documents
 
 # Onboarding Logistics:
 Employee Tasks from BWH side:
-1. Obtain BWH ID
+1. Obtain BWH ID [Detailed guide](https://rise.articulate.com/share/iqg76n3ccfpCVmx7BaiCV0YHBjh44xHV#/)
 2. Complete CITI Training: GCP and HSP and save certificates (instructions in Dropbox/BittermanLab/Administrative)
 3. Log into Citrix workspace to check access: [link](https://workspace.partners.org/Citrix/UniversalWeb/)
 4. Log into partners dropbox to check access (sign into Dropbox using BWH 
