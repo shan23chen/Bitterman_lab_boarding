@@ -29,7 +29,7 @@ email and follow instructions)
 
 Lab Tasks:
 1. After ID obtained, ask Susanna for key card access to AIM suite
-2. Email CITI certificates to CITIPROGRAM@PARTNERS.ORG (it is and auto replied email)
+2. Email CITI certificates to [email](CITIPROGRAM@PARTNERS.ORG) (it is and auto replied email)
 3. Add to IRBs after CITI training complete
 4. Give dropbox access (all should have access to admin folder)
 5. Review databases&RedCap as appropriate
