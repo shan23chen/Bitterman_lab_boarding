@@ -2,7 +2,7 @@
 Harvard AIM - Bitterman lab onboarding documents
 
 # Some always useful pointers:
-[Group reading list](https://github.com/shan23chen/paper-reading]https://github.com/shan23chen/paper-reading)
+[Group reading list](https://github.com/shan23chen/paper-reading)
 
 
 # Onboarding Logistics:
