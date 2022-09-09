@@ -13,8 +13,9 @@ Harvard AIM - Bitterman lab onboarding documents
 >[Awesome Transformer Wrapper to read and use](https://github.com/Machine-Learning-for-Medical-Language/cnlp_transformers)
 >
 >[Easy to use Prompt tuning Library](https://github.com/thunlp/OpenPrompt)
+>
 >[How to use weight and bias to record and tune your experience](https://wandb.ai/amogkam/transformers/reports/Hyperparameter-Optimization-for-Hugging-Face-Transformers--VmlldzoyMTc2ODI)
-
+>[Good practice to structure and organize your ML codes](https://github.com/ashleve/lightning-hydra-template)
 
 # Onboarding Logistics:
 Employee Tasks from BWH side:
