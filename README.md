@@ -37,5 +37,5 @@ Lab Tasks:
 5. Review databases&RedCap as appropriate
 6. Give Danielle your partner ID (initials with followed by 4 digits)
 7. Give access to lab drive (email Kris Zhai) and then log onto your VPN and try to mount to lab-drive <br /> (ask us for the smb mounting address)
->[How to mount drive on linux](https://marzorati.co/how-to-mount-cifs-share-permanently-on-ubuntu/)
+>>[How to mount drive on linux](https://marzorati.co/how-to-mount-cifs-share-permanently-on-ubuntu/)
 8. Set up Harvard Library Proxy Account if needed
