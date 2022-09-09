@@ -1,5 +1,5 @@
 # Welcome to Bitterman lab!
-Harvard AIM - Bitterman lab onboarding documents
+Harvard AIM - Bitterman lab onboarding document
 
 # Some always useful pointers (recommend to read carefully):
 >[Group reading list](https://github.com/shan23chen/paper-reading)
