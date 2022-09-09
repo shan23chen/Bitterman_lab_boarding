@@ -4,11 +4,17 @@ Harvard AIM - Bitterman lab onboarding documents
 # Some always useful pointers:
 >[Group reading list](https://github.com/shan23chen/paper-reading)
 >
+>[Old yet practical paper help you to brush out many NLP concepts before transformers](https://academic.oup.com/jamiaopen/article/2/1/150/5273645#198267995)
+>
+>[jalammar's blog that talks about many big NLP concepts](https://jalammar.github.io/)
+>
 >[Good review on Stats ML](http://www.ai.mit.edu/courses/6.867-f04/exams/final2004sols.pdf)
 >
 >[Awesome Transformer Wrapper to read and use](https://github.com/Machine-Learning-for-Medical-Language/cnlp_transformers)
 >
 >[Easy to use Prompt tuning Library](https://github.com/thunlp/OpenPrompt)
+>
+
 
 # Onboarding Logistics:
 Employee Tasks from BWH side:
