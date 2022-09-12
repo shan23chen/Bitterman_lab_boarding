@@ -4,6 +4,8 @@ Harvard AIM - Bitterman lab onboarding document
 # Some always useful pointers (recommend to read carefully):
 >[Group reading list](https://github.com/shan23chen/paper-reading)
 >
+>[Annotated Deep Learning models with codes](https://nn.labml.ai/)
+>
 >[Brushing out linux and many other useful skills](https://missing.csail.mit.edu/)
 >
 >[Old yet practical paper help you to brush out many NLP concepts before transformers](https://academic.oup.com/jamiaopen/article/2/1/150/5273645#198267995)
