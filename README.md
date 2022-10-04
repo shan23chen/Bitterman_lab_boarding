@@ -41,3 +41,4 @@ Lab Tasks:
 7. Give access to lab drive (email Kris Zhai) and then log onto your VPN and try to mount to lab-drive <br /> (ask us for the smb mounting address)
     [How to mount drive on linux](https://marzorati.co/how-to-mount-cifs-share-permanently-on-ubuntu/)
 8. Set up Harvard Library Proxy Account if needed
+9. Install PEAS and secure your personal laptop [link](https://rc.partners.org/it-services/desktop-mobile-services#macintosh-systems)!
